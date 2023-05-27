@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "std_types.h": "c",
+        "bit_math.h": "c"
+    }
+}
